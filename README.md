@@ -18,7 +18,7 @@ stack = {
 
 # ================ [ CONTACT ] ================  
 contacts = {  
-    "Email": "you@example.com",  
+    "Email": "uveis@yandex.ru",  
     "DTF": "@yourhandle",  
     "GitHub": "@yourhandle",  
     "VK": "@yourhandle",  
