@@ -1,7 +1,7 @@
 ## 👋 Hello User! My name is Uveis. 
 ## 🚀 I'm a FullStack Developer
 
-```JSON
+```Python
 # ================ [ PROFILE HEADER ] ================  
 name = "Uveis Dzaurov"  
 role = "FullStack Developer"  
