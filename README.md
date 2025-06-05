@@ -31,9 +31,7 @@ contacts = {
 ```
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVays&show_icons=true&theme=radical)](https://github.com/LordVays) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordVays&layout=compact&theme=radical)](https://github.com/LordVays)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVays&show_icons=true&theme=radical)](https://github.com/LordVays) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordVays&layout=compact&theme=radical)](https://github.com/LordVays)  
 
 
 ### 💻 Language and Tools 
