@@ -50,7 +50,7 @@ contacts = {
 ![FastApi](https://img.shields.io/badge/FastApi-090909?style=for-the-badge&logo=FastApi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![SqlLite](https://img.shields.io/badge/SqlLite-090909?style=for-the-badge&logo=sqlite)
 ![PostMan](https://img.shields.io/badge/PostMan-090909?style=for-the-badge&logo=PostMan)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![Mongoose](https://img.shields.io/badge/Mongoose-090909?style=for-the-badge&logo=mongoose)
