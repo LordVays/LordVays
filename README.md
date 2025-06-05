@@ -20,8 +20,8 @@ stack = {
 contacts = {  
     "Email": "uveis@yandex.ru",  
     "DTF": "dtf.ru/id526376",  
-    "GitHub": "@yourhandle",  
-    "VK": "@yourhandle",  
+    "GitHub": "https://github.com/LordVays",  
+    "VK": "[@yourhandle](https://vk.com/heidingi)",  
     "Habr": "@yourhandle",  
     "Discord": "@yourhandle",  
     "VK": "@yourhandle",  
