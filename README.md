@@ -13,13 +13,13 @@ def bio():
 # ================ [ TECH STACK ] ================  
 stack = {  
     "Languages": ["Python", "JavaScripts/TypeScript", "Bash"],  
-    "Tools": ["Docker", "Notion", "Git"],  
+    "Tools": ["WSL", "Notion", "Git"],  
 }  
 
 # ================ [ CONTACT ] ================  
 contacts = {  
     "Email": "uveis@yandex.ru",  
-    "DTF": "@yourhandle",  
+    "DTF": "dtf.ru/id526376",  
     "GitHub": "@yourhandle",  
     "VK": "@yourhandle",  
     "Habr": "@yourhandle",  
