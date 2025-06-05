@@ -30,6 +30,7 @@ contacts = {
 }  
 ```
 
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVays&show_icons=true&theme=radical)](https://github.com/LordVays) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordVays&layout=compact&theme=radical)](https://github.com/LordVays)  
 
 
@@ -70,6 +71,7 @@ contacts = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)](https://github.com/LordVays)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/pochhitaa)
+[![Pinterest](https://img.shields.io/badge/Pinterest-090909?style=for-the-badge&logo=Pinterest&logoColor=rgba(193,53,132))](https://ru.pinterest.com/lordvays/)
 [![DTF](https://img.shields.io/badge/DTF-090909?style=for-the-badge&logo=flutter)](dtf.ru/id526376)
 [![VK](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/heidingi)
 [![X](https://img.shields.io/badge/X/twitter-090909?style=for-the-badge&logo=x)](https://t.me/pochhitta)
