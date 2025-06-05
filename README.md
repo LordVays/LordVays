@@ -31,7 +31,28 @@ contacts = {
 ```
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVays&show_icons=true&theme=radical)](https://github.com/LordVays) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordVays&layout=compact&theme=radical)](https://github.com/LordVays)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVays&show_icons=true&theme=radical)](https://github.com/LordVays) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordVays&layout=compact&theme=radical)](https://github.com/LordVays) 
+
+
+ <div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/LordVays" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=LordVays&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
+
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/LordVays?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/LordVays?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/LordVays?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/LordVays?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
+
 
 
 ### 💻 Language and Tools 
