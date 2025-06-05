@@ -72,7 +72,7 @@ contacts = {
 ### 📫 Follow Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-26A5E4?logo=github&color=090909)](https://github.com/LordVays)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&color=090909)](https://t.me/pochhitta)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&color=090909)](https://t.me/pochhitaa)
 [![DTF](https://img.shields.io/badge/-DTF-26A5E4?logo=flutter&color=090909)](dtf.ru/id526376)
 [![VK](https://img.shields.io/badge/-VK-26A5E4?logo=VK&color=090909&logoColor=blue)](https://vk.com/heidingi)
 [![X](https://img.shields.io/badge/-X/Twitter-26A5E4?logo=x&color=090909)](https://t.me/pochhitta)
