@@ -21,12 +21,12 @@ contacts = {
     "Email": "uveis@yandex.ru",  
     "DTF": "dtf.ru/id526376",  
     "GitHub": "https://github.com/LordVays",  
-    "VK": "[@yourhandle](https://vk.com/heidingi)",  
-    "Habr": "@yourhandle",  
-    "Discord": "@yourhandle",  
-    "VK": "@yourhandle",  
+    "VK": "https://vk.com/heidingi",  
+    "Habr": "https://habr.com/ru/users/LordVays/",  
+    "Discord": "@yourhandle", 
     "Instagram": "@yourhandle",  
-    "X": "@yourhandle"  
+    "X": "@yourhandle",
+    "Telegram": "@yourhandle"
 }  
 ```
 
@@ -71,11 +71,11 @@ contacts = {
 
 ### 📫 Follow Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-26A5E4?logo=github&color=090909)](https://t.me/pochhitta)
+[![GitHub](https://img.shields.io/badge/-GitHub-26A5E4?logo=github&color=090909)](https://github.com/LordVays)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&color=090909)](https://t.me/pochhitta)
-[![DTF](https://img.shields.io/badge/-DTF-26A5E4?logo=flutter&color=090909)](https://t.me/pochhitta)
-[![VK](https://img.shields.io/badge/-VK-26A5E4?logo=VK&color=090909&logoColor=blue)](https://t.me/pochhitta)
+[![DTF](https://img.shields.io/badge/-DTF-26A5E4?logo=flutter&color=090909)](dtf.ru/id526376)
+[![VK](https://img.shields.io/badge/-VK-26A5E4?logo=VK&color=090909&logoColor=blue)](https://vk.com/heidingi)
 [![X](https://img.shields.io/badge/-X/Twitter-26A5E4?logo=x&color=090909)](https://t.me/pochhitta)
 [![Discord](https://img.shields.io/badge/-Discord-26A5E4?logo=discord&color=090909)](https://t.me/pochhitta)
 [![Instagram](https://img.shields.io/badge/-Instagram-26A5E4?logo=Instagram&color=090909&logoColor=rgba(193,53,132))](https://t.me/pochhitta)
-[![Habr](https://img.shields.io/badge/-Habr-26A5E4?logo=habr&color=090909)](https://t.me/pochhitta)
+[![Habr](https://img.shields.io/badge/-Habr-26A5E4?logo=habr&color=090909)](https://habr.com/ru/users/LordVays/)
