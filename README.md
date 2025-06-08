@@ -23,10 +23,10 @@ contacts = {
     "GitHub": "https://github.com/LordVays",  
     "VK": "https://vk.com/heidingi",  
     "Habr": "https://habr.com/ru/users/LordVays/",  
-    "Discord": "@yourhandle", 
-    "Instagram": "@yourhandle",  
-    "X": "@yourhandle",
-    "Telegram": "@yourhandle"
+    "Discord": "lorddz505", 
+    "Instagram": "https://www.instagram.com/lord_vays/profilecard/?igsh=bnFreHZibXZldjdv",  
+    "X": "https://x.com/KiryuinKoji?t=Bd_nD03b_3h-mLczLiU_9w&s=09",
+    "Telegram": "https://t.me/pochhitaa"
 }  
 ```
 
@@ -96,7 +96,7 @@ contacts = {
 [![Pinterest](https://img.shields.io/badge/Pinterest-090909?style=for-the-badge&logo=Pinterest&logoColor=rgba(193,53,132))](https://ru.pinterest.com/lordvays/)
 [![DTF](https://img.shields.io/badge/DTF-090909?style=for-the-badge&logo=flutter)](dtf.ru/id526376)
 [![VK](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/heidingi)
-[![X](https://img.shields.io/badge/X/twitter-090909?style=for-the-badge&logo=x)](https://t.me/pochhitta)
-[![DTF](https://img.shields.io/badge/DTF-090909?style=for-the-badge&logo=flutter)](https://t.me/pochhitta)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=rgba(193,53,132))](https://habr.com/ru/users/LordVays/)
+[![X](https://img.shields.io/badge/X/twitter-090909?style=for-the-badge&logo=x)](https://x.com/KiryuinKoji?t=Bd_nD03b_3h-mLczLiU_9w&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=rgba(193,53,132))](https://www.instagram.com/lord_vays/profilecard/?igsh=bnFreHZibXZldjdv)
 [![Habr](https://img.shields.io/badge/habr-090909?style=for-the-badge&logo=habr)](https://habr.com/ru/users/LordVays/)
+[![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](lorddz505)
