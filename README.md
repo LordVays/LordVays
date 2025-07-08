@@ -12,7 +12,7 @@ def bio():
 
 # ================ [ TECH STACK ] ================  
 stack = {  
-    "Languages": ["Python", "JavaScripts/TypeScript", "Bash"],  
+    "Languages": ["Python", "JavaScripts"],  
     "Tools": ["WSL", "Notion", "Git"],  
 }  
 
