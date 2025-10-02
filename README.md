@@ -5,15 +5,15 @@
 # ================ [ PROFILE HEADER ] ================  
 name = "Uveis Dzaurov"  
 role = "FullStack Developer"  
-current_os = "Windows / WSl"  
+current_os = "Windows / Arch"  
 
 def bio():  
     return "Пишу код, исправляю баги, пью кофе."  
 
 # ================ [ TECH STACK ] ================  
 stack = {  
-    "Languages": ["Python", "JavaScripts"],  
-    "Tools": ["WSL", "Notion", "Git"],  
+    "Languages": ["Python", "JavaScripts", "GoLang"],  
+    "Tools": ["WSL", "Obsidian", "Git"],  
 }  
 
 # ================ [ CONTACT ] ================  
