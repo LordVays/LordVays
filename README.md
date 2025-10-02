@@ -18,15 +18,10 @@ stack = {
 
 # ================ [ CONTACT ] ================  
 contacts = {  
-    "Email": "uveis@yandex.ru",  
-    "DTF": "dtf.ru/id526376",  
-    "GitHub": "https://github.com/LordVays",  
-    "VK": "https://vk.com/heidingi",  
-    "Habr": "https://habr.com/ru/users/LordVays/",  
-    "Discord": "lorddz505", 
-    "Instagram": "https://www.instagram.com/lord_vays/profilecard/?igsh=bnFreHZibXZldjdv",  
-    "X": "https://x.com/KiryuinKoji?t=Bd_nD03b_3h-mLczLiU_9w&s=09",
-    "Telegram": "https://t.me/pochhitaa"
+    "Email": "uveis@yandex.ru", 
+    "GitHub": "https://github.com/LordVays", 
+    "Habr": "https://habr.com/ru/users/LordVays/",
+    "X": "https://x.com/KiryuinKoji?t=Bd_nD03b_3h-mLczLiU_9w&s=09"
 }  
 ```
 
@@ -86,18 +81,3 @@ contacts = {
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma)
 ![Notion](https://img.shields.io/badge/Notion-090909?style=for-the-badge&logo=notion)
 ![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello)
-
-
-
-
-### 📫 Follow Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)](https://github.com/LordVays)
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/pochhitaa)
-[![Pinterest](https://img.shields.io/badge/Pinterest-090909?style=for-the-badge&logo=Pinterest&logoColor=rgba(193,53,132))](https://ru.pinterest.com/lordvays/)
-[![DTF](https://img.shields.io/badge/DTF-090909?style=for-the-badge&logo=flutter)](dtf.ru/id526376)
-[![VK](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/heidingi)
-[![X](https://img.shields.io/badge/X/twitter-090909?style=for-the-badge&logo=x)](https://x.com/KiryuinKoji?t=Bd_nD03b_3h-mLczLiU_9w&s=09)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=rgba(193,53,132))](https://www.instagram.com/lord_vays/profilecard/?igsh=bnFreHZibXZldjdv)
-[![Habr](https://img.shields.io/badge/habr-090909?style=for-the-badge&logo=habr)](https://habr.com/ru/users/LordVays/)
-[![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](lorddz505)
